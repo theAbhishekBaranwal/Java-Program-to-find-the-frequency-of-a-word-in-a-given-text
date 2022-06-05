@@ -52,13 +52,9 @@ import java.io.*;
                     s1="";
                 }
               
-              
-              
-            
-            
-           else
-              s1=s1+ch;
-        }
+             else
+                s1=s1+ch;
+            }
         System.out.println(w+" occurs as an independent word "+ind+" times");
         System.out.println(w+" occurs as a part of A word = "+ (part-ind)+" times" );
     }
