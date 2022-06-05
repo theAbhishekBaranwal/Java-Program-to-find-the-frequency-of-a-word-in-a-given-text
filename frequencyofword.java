@@ -58,9 +58,4 @@ import java.io.*;
         System.out.println(w+" occurs as an independent word "+ind+" times");
         System.out.println(w+" occurs as a part of A word = "+ (part-ind)+" times" );
     }
-}   
-           
-              
-     
-      
-     
+}
